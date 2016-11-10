@@ -1,6 +1,8 @@
 # Notes-A
 This is my first paragraph. This is to demo paragraph in MD file. I am trying to learn MD file syntax. I am a beginner.
+
 Hello world. !!!
+
 This is awesome.
 ## Notes1
 This is super cool
