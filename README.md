@@ -16,9 +16,15 @@ This is my first paragraph. This is to demo paragraph in MD file. I am trying to
   pwd
   mkdir -p ./a/b/c
   }`
+
 This is super cool
-### Notes2
-This is amazing.
+
+### This is code block
+```
+This is a code block.
+My name is naseer
+```
+
 #### Notes3
 This is good.
 
