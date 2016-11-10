@@ -10,7 +10,12 @@ This is my first paragraph. This is to demo paragraph in MD file. I am trying to
 
 > Let make our country great again.
 
-## Notes1
+## This is peace of code
+`function() {
+  echo "My name is naseer"
+  pwd
+  mkdir -p ./a/b/c
+  }`
 This is super cool
 ### Notes2
 This is amazing.
