@@ -28,6 +28,7 @@ Links are also auto-detected in text: http://google.com/
 
 #### Images
 ![image from google](http://cdn.wallpapersafari.com/27/30/LjHODh.png)
+![image from current repo](https://github.com/Naseeruddinmohammed/Notes/blob/master/google_image.jpg)
 
 # Notes-B
 ## Notes-1
