@@ -26,8 +26,8 @@ This is [an example](http://www.google.com/) inline link.
 
 Links are also auto-detected in text: http://google.com/
 
-#### Notes3
-This is good.
+#### Images
+![image from google](http://cdn.wallpapersafari.com/27/30/LjHODh.png)
 
 # Notes-B
 ## Notes-1
