@@ -20,13 +20,11 @@ This is a function.`function() {
 This is super cool
 
 ### This is external website
-```
 This is [an example](http://www.google.com/) inline link.
 
 [This link](http://google.com/ "GOOGLE") has a title attribute.
 
 Links are also auto-detected in text: http://google.com/
-```
 
 #### Notes3
 This is good.
