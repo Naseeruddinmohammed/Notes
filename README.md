@@ -11,11 +11,11 @@ This is my first paragraph. This is to demo paragraph in MD file. I am trying to
 > Let make our country great again.
 
 ## This is peace of code
-`function() {
+This is a function.`function() {
   echo "My name is naseer"
   pwd
   mkdir -p ./a/b/c
-  }`
+  }`. This is dummy function.
 
 This is super cool
 
