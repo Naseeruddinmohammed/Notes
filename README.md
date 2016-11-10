@@ -19,10 +19,13 @@ This is a function.`function() {
 
 This is super cool
 
-### This is code block
+### This is external website
 ```
-This is a code block.
-My name is naseer
+This is [an example](http://www.google.com/) inline link.
+
+[This link](http://google.com/ "GOOGLE") has a title attribute.
+
+Links are also auto-detected in text: http://google.com/
 ```
 
 #### Notes3
